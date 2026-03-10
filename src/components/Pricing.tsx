@@ -17,8 +17,8 @@ const ouroFeatures = [
 const vipFeatures = [
   "Tudo do ingresso Ouro",
   <><strong>Camiseta exclusiva</strong> Identidade Implacável</>,
-  <><strong>Livro</strong> "Ative sua fé como dinamite"</>,
-  <><strong>Devocional</strong> "Deus, Você e eu"</>,
+  <><strong>Livro</strong> &ldquo;Ative sua fé como dinamite&rdquo;</>,
+  <><strong>Devocional</strong> &ldquo;Deus, Você e eu&rdquo;</>,
   <><strong>Sacola personalizada</strong> Identidade Implacável</>,
   <><strong>Almoço</strong> incluso no evento</>,
   <><strong>Café da tarde</strong> incluso no evento</>,

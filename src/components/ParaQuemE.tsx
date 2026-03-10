@@ -85,9 +85,9 @@ export function ParaQuemE() {
               textShadow: "0 1px 4px rgba(0,0,0,0.3)",
             }}
           >
-            "Não é sobre parecer forte por fora.
+            &ldquo;Não é sobre parecer forte por fora.
             <br />
-            É sobre se tornar <strong style={{ color: "#FFE88A" }}>firme por dentro.</strong>"
+            É sobre se tornar <strong style={{ color: "#FFE88A" }}>firme por dentro.</strong>&rdquo;
           </p>
           <a
             href="#inscricao"

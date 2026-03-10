@@ -101,8 +101,8 @@ export function WhySection() {
             className="rv d3 pull-quote"
             style={{ fontSize: "clamp(15px, 2vw, 20px)", marginBottom: 28 }}
           >
-            "O que está travando sua vida pode não ser falta de capacidade, mas uma identidade
-            enfraquecida."
+            &ldquo;O que está travando sua vida pode não ser falta de capacidade, mas uma identidade
+            enfraquecida.&rdquo;
           </blockquote>
           <a
             href="#inscricao"

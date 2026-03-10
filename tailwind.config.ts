@@ -8,12 +8,22 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        cinzel: ["'Cinzel'", "serif"],
+        playfair: ["'Playfair Display'", "serif"],
+        jost: ["'Jost'", "sans-serif"],
+      },
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        gold: "#9A7318",
+        "gold-light": "#C9A84C",
+        "gold-pale": "#F0DDA8",
+        brown: "#6B5020",
+        cream: "#F0EBE0",
+        sand: "#E8DFD0",
       },
     },
   },
   plugins: [],
 };
 export default config;
+

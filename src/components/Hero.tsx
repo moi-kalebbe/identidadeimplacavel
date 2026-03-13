@@ -120,7 +120,7 @@ export function Hero() {
               <line x1="3" y1="10" x2="21" y2="10" />
             </svg>
             <span>
-              <strong style={{ color: "var(--g)", fontWeight: 600, fontSize: "clamp(18px,4vw,22px)" }}>25 de Abril de 2026</strong>
+              <strong style={{ color: "var(--g)", fontWeight: 600, fontSize: "clamp(18px,4vw,22px)" }}>23 de Maio de 2026</strong>
             </span>
           </div>
           {/* Location */}

@@ -10,7 +10,7 @@ const ouroFeatures = [
   "Acesso integral à imersão presencial",
   "Material exclusivo da imersão",
   "Conexões com outros participantes",
-  "25/04 · Limeira, SP",
+  "23/05 · Limeira, SP",
   <><strong>Café da tarde</strong> incluso no evento</>,
 ];
 
@@ -136,6 +136,8 @@ function PricingCard({ tag, type, desc, oldPrice, price, installment, features, 
       <div style={{ padding: "24px 32px 32px" }}>
         <a
           href={ctaHref}
+          target="_blank"
+          rel="noopener noreferrer"
           className="btn-gold"
           style={{
             display: "block",
@@ -173,7 +175,7 @@ export function Pricing() {
             className="rv d2"
             style={{ fontFamily: "'Jost', sans-serif", fontSize: 16, fontWeight: 300, color: "var(--txs)", maxWidth: 540, margin: "0 auto 16px", lineHeight: 1.7 }}
           >
-            Escolha o ingresso ideal para você e garanta sua transformação em 25 de Abril, em Limeira.
+            Escolha o ingresso ideal para você e garanta sua transformação em 23 de Maio, em Limeira.
           </p>
         </div>
 

@@ -12,7 +12,7 @@ export function Topbar() {
         className="font-cinzel text-[#FFF8EE] overflow-hidden text-ellipsis whitespace-nowrap"
         style={{ fontSize: "10px", letterSpacing: "0.3em" }}
       >
-        25 DE ABRIL &nbsp;|&nbsp; LIMEIRA &nbsp;|&nbsp; VAGAS LIMITADAS
+        23 DE MAIO &nbsp;|&nbsp; LIMEIRA &nbsp;|&nbsp; VAGAS LIMITADAS
       </p>
     </div>
   );

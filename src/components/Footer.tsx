@@ -32,7 +32,7 @@ export function Footer() {
           lineHeight: 1.8,
         }}
       >
-        25 de Abril · Limeira – SP · Vagas Limitadas
+        23 de Maio · Limeira – SP · Vagas Limitadas
         <br />© 2026 Lu Burger — Todos os direitos reservados
       </p>
     </footer>

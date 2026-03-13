@@ -200,7 +200,7 @@ export function Pricing() {
             installment="ou 12× de R$ 69,70 no cartão"
             features={ouroFeatures}
             ctaLabel="GARANTIR VAGA OURO"
-            ctaHref="#"
+            ctaHref="https://pay.kiwify.com.br/YroRQ7R"
           />
           <PricingCard
             tag="INGRESSO VIP · 1º LOTE"
@@ -211,9 +211,57 @@ export function Pricing() {
             installment="ou 12× de R$ 89,70 no cartão"
             features={vipFeatures}
             ctaLabel="GARANTIR VAGA VIP"
-            ctaHref="#"
+            ctaHref="https://pay.kiwify.com.br/qf00BOL"
             featured
           />
+        </div>
+
+        {/* Map */}
+        <div
+          className="rv d3"
+          style={{ marginTop: 64, textAlign: "center" }}
+        >
+          <div
+            style={{
+              fontFamily: "'Cinzel', serif",
+              fontSize: 9,
+              letterSpacing: "0.35em",
+              color: "var(--g)",
+              marginBottom: 12,
+            }}
+          >
+            📍 LOCAL DO EVENTO
+          </div>
+          <p
+            style={{
+              fontFamily: "'Jost', sans-serif",
+              fontSize: 14,
+              fontWeight: 300,
+              color: "var(--txs)",
+              marginBottom: 20,
+            }}
+          >
+            R. Clarindo Peixoto de Oliveira, 280 — Jardim Maria Buchi Modeneis, Limeira – SP, 13482-231
+          </p>
+          <div
+            style={{
+              borderRadius: 4,
+              overflow: "hidden",
+              border: "1px solid var(--bgm)",
+              boxShadow: "0 8px 40px rgba(184,146,42,0.10)",
+            }}
+          >
+            <iframe
+              title="Local do evento"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.0!2d-47.3883!3d-22.5640!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zUi4gQ2xhcmluZG8gUGVpeG90byBkZSBPbGl2ZWlyYSwgMjgwIC0gSmFyZGltIE1hcmlhIEJ1Y2hpIE1vZGVuZWlzLCBMaW1laXJhIC0gU1AsIDEzNDgyLTIzMQ!5e0!3m2!1spt-BR!2sbr!4v1699999999999!5m2!1spt-BR!2sbr&q=R.+Clarindo+Peixoto+de+Oliveira,+280,+Limeira,+SP,+13482-231"
+              width="100%"
+              height="380"
+              style={{ border: 0, display: "block" }}
+              allowFullScreen
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+            />
+          </div>
         </div>
       </div>
     </section>

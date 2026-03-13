@@ -253,7 +253,7 @@ export function Pricing() {
           >
             <iframe
               title="Local do evento"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.0!2d-47.3883!3d-22.5640!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zUi4gQ2xhcmluZG8gUGVpeG90byBkZSBPbGl2ZWlyYSwgMjgwIC0gSmFyZGltIE1hcmlhIEJ1Y2hpIE1vZGVuZWlzLCBMaW1laXJhIC0gU1AsIDEzNDgyLTIzMQ!5e0!3m2!1spt-BR!2sbr!4v1699999999999!5m2!1spt-BR!2sbr&q=R.+Clarindo+Peixoto+de+Oliveira,+280,+Limeira,+SP,+13482-231"
+              src="https://maps.google.com/maps?q=R.+Clarindo+Peixoto+de+Oliveira,+280,+Jardim+Maria+Buchi+Modeneis,+Limeira,+SP,+13482-231&output=embed&hl=pt-BR"
               width="100%"
               height="380"
               style={{ border: 0, display: "block" }}

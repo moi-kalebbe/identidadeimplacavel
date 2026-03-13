@@ -72,7 +72,7 @@ export function WhatsappSection() {
           transformação.
         </p>
         <a
-          href="https://wa.me/5519999999999"
+          href="https://wa.me/5519997688697?text=Quero%20Informa%C3%A7%C3%B5es%20da%20imers%C3%A3o"
           target="_blank"
           rel="noopener noreferrer"
           style={{
